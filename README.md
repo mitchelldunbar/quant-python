@@ -1,2 +1,2 @@
 # quant-python
-Stats models build in python
+Statistical learning implemented in python
